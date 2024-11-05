@@ -1,0 +1,8 @@
+# Web Server Hosts
+192.168.1.10   main-website.local    www.example.com
+192.168.1.11   static-website.local  static.example.com
+192.168.1.12   admin-portal.local    admin.example.com
+
+# Load Balancer
+192.168.1.13   load-balancer.local   lb.example.com
+

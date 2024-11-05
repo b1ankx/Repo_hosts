@@ -1,0 +1,7 @@
+# Monitoring and Logging Hosts
+172.16.0.10  prometheus.local    prometheus.example.com
+172.16.0.11  grafana.local       grafana.example.com
+172.16.0.12  elasticsearch.local es.example.com
+172.16.0.13  kibana.local        kibana.example.com
+172.16.0.14  logstash.local      logstash.example.com
+

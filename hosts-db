@@ -1,0 +1,10 @@
+# Database Server Hosts
+10.0.0.20  db-master.local       db-master.example.com
+10.0.0.21  db-replica-1.local    db-replica1.example.com
+10.0.0.22  db-replica-2.local    db-replica2.example.com
+
+# Sharded Database Servers
+10.0.0.30  db-shard-1.local      db-shard1.example.com
+10.0.0.31  db-shard-2.local      db-shard2.example.com
+10.0.0.32  db-shard-3.local      db-shard3.example.com
+
